@@ -93,7 +93,7 @@ Add Lottie Animation:
 
 
 
-Place your progress_bar.json file in assets/animations/.
+Place your progress.json file in assets/animations/.
 
 
 
